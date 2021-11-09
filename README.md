@@ -30,9 +30,8 @@ This repository includes a number of **[sample configuration files](/app/webdriv
  Ensure you have the following dependencies installed on the machine
  
  1. Dotnet (3 or above)
- 2. Allure Command Line Tool 
- 3. [BrowserStack AppAutomate Account](https://www.browserstack.com/app-automate). ![BrowserStack](https://img.shields.io/badge/For-BrowserStackAppAutomate-orange)
- 4. Upload Your App on BrowserStack <br>Click [here](https://www.browserstack.com/docs/app-automate/api-reference/appium/apps#upload-an-app) for more details on how to upload an app.
+ 2. [BrowserStack AppAutomate Account](https://www.browserstack.com/app-automate). ![BrowserStack](https://img.shields.io/badge/For-BrowserStackAppAutomate-orange)
+ 3. Upload Your App on BrowserStack <br>Click [here](https://www.browserstack.com/docs/app-automate/api-reference/appium/apps#upload-an-app) for more details on how to upload an app.
 </br>
  
   ## Setup with Nunit 
